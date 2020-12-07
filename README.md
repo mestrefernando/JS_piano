@@ -1,1 +1,1 @@
-This one will be fore Web Developer
+This one will be for Web Developer stuff.
